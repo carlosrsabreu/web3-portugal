@@ -68,7 +68,7 @@ Some of the following exchanges and payment platforms are registered at the Bank
 
 | **Name** | **Description** | **Link** |
 | :---------- | :---------- | :---------- |
-| Polkamarkets | WalliD is the identity toolkit that enables legacy, web2 and web3 identity assets to come together and to communicate by connecting them to a standard-agnostic, self-sovereign digital wallet that every internet user can own and use to authenticate or to provide proofs-of-identity in any online or offline environment. | [:earth_africa:](https://www.polkamarkets.com/) |
+| Polkamarkets | Autonomous Prediction Market Protocol, an EVM protocol solution for the Polkadot Ecosystem. | [:earth_africa:](https://www.polkamarkets.com/) |
 
 
 ## Product Development
