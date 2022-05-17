@@ -10,8 +10,7 @@ If you would like to contribute to this repository, please just trigger a pull r
 
 | **Name** | **Description** | **Link** |
 | :---------- | :---------- | :---------- |
-| Invisible Lab | We are a deep tech lab that solves complex technology challenges with disruptive thinking.
-We deliver innovation that moves your business forward. | [:earth_africa:](https://www.invisiblelab.dev/) |
+| Invisible Lab | We are a deep tech lab that solves complex technology challenges with disruptive thinking. We deliver innovation that moves your business forward. | [:earth_africa:](https://www.invisiblelab.dev/) |
 
 
 ## Fintech
@@ -40,8 +39,7 @@ Some of the following exchanges and payment platforms are registered at the Bank
 | **Name** | **Description** | **Link** |
 | :---------- | :---------- | :---------- |
 | TAIKAI | Builder hub that connects creators and companies, using hackathons, bounties and hiring challenges to help you grow. | [:earth_africa:](https://subvisual.com/) |
-| Onda Studio | Breaking the boredom in the metaverse through design, branding,
-no-code and copywriting. | [:earth_africa:](https://www.ondastudio.co/) |
+| Onda Studio | Breaking the boredom in the metaverse through design, branding, no-code and copywriting. | [:earth_africa:](https://www.ondastudio.co/) |
 | Pink Room Dev | Delivering meaningful mobile digital products. | [:earth_africa:](https://pinkroom.dev/) |
 
 
