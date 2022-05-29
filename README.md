@@ -33,6 +33,13 @@ Some of the following exchanges and payment platforms are registered at the Bank
 | Bison Digital Assets | Licensed virtual assets’ platform fully owned by a Portuguese Bank. | [:earth_africa:](https://www.bisondigital.com/) |
 
 
+## Fashion
+
+| **Name** | **Description** | **Link** |
+| :---------- | :---------- | :---------- |
+| DiVERGE | Built a platform that allows you to digitally customize your sneakers before delivering the physical ones - which are ethically made to order in Portugal using premium materials that last - while promoting environmental and social impact in the process. | [:earth_africa:](https://www.diverge-sneakers.com/) |
+
+
 ## Fintech
 
 | **Name** | **Description** | **Link** |
