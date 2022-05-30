@@ -69,6 +69,7 @@ Some of the following exchanges and payment platforms are registered at the Bank
 | :---------- | :---------- | :---------- |
 | Exxedme | Play your favourite games, sign up for tournaments, join communities and make friends. All while earning at the same time. | [:earth_africa:](https://www.exeedme.com/) |
 | Dotmoovs | The ultimate sports app with incredible metaverse competitions. Get your smartphone camera, our AI algorithm does the rest! | [:earth_africa:](https://www.dotmoovs.com/) |
+| QUDO | QUDO is a revolutionary mechanism that rewards Gamers and Developers with a crypto token. Players can do In-App-Unlocks using QUDO in all adherent games, while game developers can improve their games through the QUDO B2B marketplace or give back to the community by creating additional rewards. | [:earth_africa:](https://www.qudo.io/) |
 
 
 ## Prediction Markets
