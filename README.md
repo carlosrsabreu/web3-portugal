@@ -44,7 +44,7 @@ Some of the following exchanges and payment platforms are registered at the Bank
 
 | **Name** | **Description** | **Link** |
 | :---------- | :---------- | :---------- |
-| Finiam | We are finiam. Improving people's lives by untangling the financial world. | [:earth_africa:](https://finiam.com/) |
+| Finiam | A full-stack dev shop working from north of Portugal. We work in Web Development, DevOps, Smart Contract Development, Product Development, Research, using Ruby on Rails, Node, React, Elixir & Phoenix, Solidity, Rust, Cairo, Svelte. | [:earth_africa:](https://finiam.com/) |
 | Utrust | Utrust is a seamless integration that gives e-commerce businesses the power to accept digital currencies like bitcoin and ethereum, and get all the benefits you can’t with just traditional payment methods. Registered at the Bank of Portugal. | [:earth_africa:](https://utrust.com/) |
 
 
