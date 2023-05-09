@@ -49,6 +49,12 @@ If you would like to contribute to this repository, please just trigger a pull r
 | Invisible Lab      | We are a deep tech lab that solves complex technology challenges with disruptive thinking. We deliver innovation that moves your business forward.                                                                                      | [:earth_africa:](https://www.invisiblelab.dev/)  |
 | Applied Blockchain | ...                                                                                                                                                                                                                                     | [:earth_africa:](https://appliedblockchain.com/) |
 
+## Education
+
+| **Name**            | **Description** | **Link**                                           |
+| :------------------ | :-------------- | :------------------------------------------------- |
+| Web3Grad | Empowering the next generation of Web3 developers by up-skilling high potential eager to learn people and getting them a better job at building the future.            | [:earth_africa:](https://web3grad.com/) |
+
 ## Exchanges & Payment Platforms
 
 Some of the following exchanges and payment platforms are registered at the Bank of Portugal. Check [this document](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.bportugal.pt%2Fsites%2Fdefault%2Ffiles%2Flista_entidades_ativos_virtuais_pt.xlsx&wdOrigin=BROWSELINK) for the updated list.
