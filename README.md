@@ -82,6 +82,7 @@ Some of the following exchanges and payment platforms are registered at the Bank
 | WalletConnect | ...                                                                                                                                                                                  | [:earth_africa:](https://walletconnect.com/) |
 | StarkExpress  | ...                                                                                                                                                                                  | [:earth_africa:](https://starkexpress.io/)   |
 | Anchorage     | Anchorage is the most advanced and secure crypto platform that gives institutions easy and efficient access to crypto custody, trading, financing, staking, and governance services. | [:earth_africa:](https://www.anchorage.com/) |
+| Uphold        | Uphold is a Web3 financial platform committed to making Web3 easy. Serving 10M+ users in more than 180 countries, Uphold smart routes orders across 27 trading venues, delivering optimal execution and superior liquidity. Never loans out customer assets and is [always 100% reserved](https://uphold.com/transparency). | [:earth_africa:](https://uphold.com/) |
 
 ## Investment, Wallets & Payments
 
