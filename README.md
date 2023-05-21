@@ -8,14 +8,14 @@ If you would like to contribute to this repository, please just trigger a pull r
 
 ## Accelerators & Venture Capitals
 
-| **Name**            | **Description**                                                                                                                                              | **Link**                                          |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------ |
-| Lightshift Capitals | Investors of web3 financial services                                                                                                                         | [:earth_africa:](https://www.lightshift.capital/) |
-| Masterblox          | Masterblox is a leading European blockchain accelerator that delivers results with in-house growth hacking solutions and a vast network of industry experts. | [:earth_africa:](https://www.masterblox.io/)      |
-| SumCap              | SumCap is a DeFi Yield boutique with a team of highly experienced analysts and researchers that have accompanied the birth of decentralised finance from the early days. SumCap offers risk-balanced investment strategies that leverage proprietary algorithms powered by our market vision and DeFi expertise.                                                                                                                                                          | [:earth_africa:](https://www.sumcap.xyz/)         |
-| CleverWeb3          | ...                                                                                                                                                          | [:earth_africa:](https://cleverw3b.com/)          |
-| Polkastarter        | ...                                                                                                                                                          | [:earth_africa:](https://polkastarter.com/)       |
-| Startup Lisboa      | ...                                                                                                                                                          | [:earth_africa:](https://www.startuplisboa.com/)  |
+| **Name**            | **Description**                                                                                                                                                                                                                                                                                                  | **Link**                                          |
+| :------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------ |
+| Lightshift Capitals | Investors of web3 financial services                                                                                                                                                                                                                                                                             | [:earth_africa:](https://www.lightshift.capital/) |
+| Masterblox          | Masterblox is a leading European blockchain accelerator that delivers results with in-house growth hacking solutions and a vast network of industry experts.                                                                                                                                                     | [:earth_africa:](https://www.masterblox.io/)      |
+| SumCap              | SumCap is a DeFi Yield boutique with a team of highly experienced analysts and researchers that have accompanied the birth of decentralised finance from the early days. SumCap offers risk-balanced investment strategies that leverage proprietary algorithms powered by our market vision and DeFi expertise. | [:earth_africa:](https://www.sumcap.xyz/)         |
+| CleverWeb3          | ...                                                                                                                                                                                                                                                                                                              | [:earth_africa:](https://cleverw3b.com/)          |
+| Polkastarter        | ...                                                                                                                                                                                                                                                                                                              | [:earth_africa:](https://polkastarter.com/)       |
+| Startup Lisboa      | ...                                                                                                                                                                                                                                                                                                              | [:earth_africa:](https://www.startuplisboa.com/)  |
 
 ## Branding & Advertising
 
@@ -51,9 +51,9 @@ If you would like to contribute to this repository, please just trigger a pull r
 
 ## Education
 
-| **Name**            | **Description** | **Link**                                           |
-| :------------------ | :-------------- | :------------------------------------------------- |
-| Web3Grad | Empowering the next generation of Web3 developers by up-skilling high potential eager to learn people and getting them a better job at building the future.            | [:earth_africa:](https://web3grad.com/) |
+| **Name** | **Description**                                                                                                                                             | **Link**                                |
+| :------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------- |
+| Web3Grad | Empowering the next generation of Web3 developers by up-skilling high potential eager to learn people and getting them a better job at building the future. | [:earth_africa:](https://web3grad.com/) |
 
 ## Exchanges & Payment Platforms
 
@@ -102,6 +102,12 @@ Some of the following exchanges and payment platforms are registered at the Bank
 | Public Mint    | ...                                                                                                                                                                                                                                                                                                                            | [:earth_africa:](https://publicmint.com/)     |
 | Sandclock      | ...                                                                                                                                                                                                                                                                                                                            | [:earth_africa:](https://www.sandclock.org/)  |
 | WalliD         | WalliD is the identity toolkit that enables legacy, web2 and web3 identity assets to come together and to communicate by connecting them to a standard-agnostic, self-sovereign digital wallet that every internet user can own and use to authenticate or to provide proofs-of-identity in any online or offline environment. | [:earth_africa:](https://wallid.io/)          |
+
+## Marketing
+
+| **Name**       | **Description**                                                                                                                                             | **Link**                                         |
+| :------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------- |
+| Lunar Strategy | A web3 native marketing agency helping genuine projects with the go-to-market strategy to authority building, public relations and web3 growth initiatives. | [:earth_africa:](https://www.lunarstrategy.com/) |
 
 ## Networking, Coworking & Hubs
 
